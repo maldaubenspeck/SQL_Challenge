@@ -1,12 +1,12 @@
 # SQL_Challenge
 
-#The Challenge
+# The Challenge
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about
 people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.For this project, you’ll 
 design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform 
 data modeling, data engineering, and data analysis, respectively.
 
-#The Process
+# The Process
 For this SQL challenge, I initially started creating tables manually within my PostgreSQL Database that I had made for this assignment. This was tedious and I kept 
 receiving all kinds of errors, examples being: Syntax errors using any data type other than VARCHAR, Duplicate Primary key errors, issues using dates. I used multiple 
 different methods to try and remedy these issues and was unsuccessful. I deleted my tables over and over again making minor adjustments each time and trying to import 
